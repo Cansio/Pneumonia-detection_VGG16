@@ -75,6 +75,7 @@ By leveraging VGG16 and transfer learning, this model achieved strong classifica
 ```bash
 pip install -r requirements.txt
 
-Authors:
+
+### Authors:
 Joe Cansio Fernandes
 Shreyas Prabhukanolkar
